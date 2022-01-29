@@ -2,6 +2,7 @@
 config.py
 
 #Other files to ignore
+
 API_practice.ipynb
 random_numbers.ipynb
 
