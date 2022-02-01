@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Project Purpose
-this project used various methods to help users refine their search for the perfect vacation spot.
+This project used various methods to help users refine their search for the perfect vacation spot.
 
 
 ## Project Resources
